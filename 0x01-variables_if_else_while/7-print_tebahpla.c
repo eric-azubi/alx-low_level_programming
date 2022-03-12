@@ -1,4 +1,4 @@
-i#include <stdio.h>
+#include <stdio.h>
 
 /**
  *main - Prints lowercase letters in reverse order using only putchar
